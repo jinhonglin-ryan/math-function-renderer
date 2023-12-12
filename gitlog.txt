@@ -1,0 +1,418 @@
+commit 2bd4ab63b19734b263d6230b6bd2fd118122830e
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Fri Apr 28 17:45:19 2023 -0400
+
+    added UML Diagram
+
+commit ae79b6c31df137fe45e65945c62d1a9f18fe3c66
+Merge: f21dff1 15814ca
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Fri Apr 28 17:37:16 2023 -0400
+
+    Merge pull request #15 from jhu-ip/vincent
+    
+    finished README
+
+commit f21dff188251a0b3b38ddb338c54109826c98146
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Thu Apr 27 23:33:19 2023 -0400
+
+    added more specific comments for expr
+
+commit 07f342e9bb7986abf5dbafc950e6b7928ddd2cb1
+Merge: 2a66028 25ffc3b
+Author: Cassie Zhang <85932225+xiyanzhang@users.noreply.github.com>
+Date:   Thu Apr 27 23:15:18 2023 -0400
+
+    Merge pull request #14 from jhu-ip/Cassie1
+    
+    added more specific comments for all functions
+
+commit 25ffc3b8e0b2de6eb952303d49de01f6df7f7521
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Thu Apr 27 23:13:27 2023 -0400
+
+    added more specific comments for all functions
+
+commit 2a66028005b2ce0a57c9f79f3b16abf47cb757bb
+Author: Jinhong Lin <linjinhong@yandex.com>
+Date:   Thu Apr 27 22:23:43 2023 -0400
+
+    expr.cpp comments added
+
+commit 3f3846ea1a5197ee822e891297ddab4b2fca6786
+Author: Jinhong Lin <linjinhong@yandex.com>
+Date:   Thu Apr 27 22:22:31 2023 -0400
+
+    expr.cpp error handling added
+
+commit 15814ca68d44ddc273c7f1f0b6d5a6c8aa1211f0
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Thu Apr 27 22:14:00 2023 -0400
+
+    finished README
+
+commit c68b9c041e915043ac218d83e943bfe7e1cbf06a
+Author: Jinhong Lin <linjinhong@yandex.com>
+Date:   Thu Apr 27 22:13:42 2023 -0400
+
+    expr_parser error handling + comments added
+
+commit 94474c371df11313a0edae3d45cd488bedaa677a
+Merge: 4878b01 292fbb7
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Thu Apr 27 03:34:51 2023 -0400
+
+    Merge pull request #13 from jhu-ip/vincent
+    
+    Vincent
+
+commit 292fbb72abc0355c5cb4fb728df550ad3fe3e29d
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Thu Apr 27 03:33:16 2023 -0400
+
+    updated README
+
+commit 520cbc2eda8290cbe4184f0966cbaab77c9d3f06
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Thu Apr 27 03:31:20 2023 -0400
+
+    added comments
+
+commit 4878b0109a8aa346befdd623a7e785c5958185e3
+Author: Jinhong Lin <linjinhong@yandex.com>
+Date:   Thu Apr 27 00:09:57 2023 -0400
+
+    error handling attempt to divide by 0
+
+commit b9cf01f70afcab922151929021c723bf2081eb92
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Wed Apr 26 22:49:12 2023 -0400
+
+    fixed error occuring with nonexisting fill calls
+
+commit 37d4fa10ef24a488d1c1ad8b85d099d9fbce2c18
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Wed Apr 26 16:31:15 2023 -0400
+
+    added more exceptions according to the project instructions, still needs some more
+
+commit 7370f9d56ac83f72dc260f65abe22f160969a679
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Wed Apr 26 14:50:05 2023 -0400
+
+    adding exceptions
+
+commit 5f4663cf5bae873edde19505f1c48b4cb53d0c86
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Tue Apr 25 21:23:52 2023 -0400
+
+    valgrind has no errors now
+
+commit 1f1552259902f4cd86737e68ca7bef9f1749f0bb
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Tue Apr 25 19:40:32 2023 -0400
+
+    all output same as expected, still contain valgrind errors
+
+commit 3bcd90054574a93d2f5f980429464b7a07a6795e
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Tue Apr 25 16:56:16 2023 -0400
+
+    fixed edge case on example 3
+
+commit c9dd292034ad9948f9b869e6c2d0aa21cb88ccb1
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Tue Apr 25 14:27:01 2023 -0400
+
+    Fixed error to is_num
+
+commit d6612bd865877a085b31f931f43b6752da8c114c
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Tue Apr 25 14:21:15 2023 -0400
+
+    fixed recognizing decimals
+
+commit 82fcb353dd43bf02a093435880a0b248417e1fe1
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Tue Apr 25 00:35:47 2023 -0400
+
+    fixed valgrind errors that occur when example 1 is tested
+
+commit a7ab6275dad531c957fe9d154c5746aed60908b8
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Tue Apr 25 00:11:13 2023 -0400
+
+    can now successfully output example1, although image does not exactly match
+
+commit 11fab5baa44b6f3d22bafd5711f4d64da067a2ef
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Mon Apr 24 22:49:46 2023 -0400
+
+    debugging valgrind
+
+commit fabf9e9616c9d7bca7f0144f10c270582cc486b0
+Merge: e4e6cd0 d17fbdd
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Mon Apr 24 22:28:40 2023 -0400
+
+    Merge pull request #12 from jhu-ip/Cassie
+    
+    fixed valgrind issues
+
+commit d17fbddaa8dbecda907f40736cda254eead051c6
+Merge: 1ca41a0 e4e6cd0
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Mon Apr 24 22:28:29 2023 -0400
+
+    Merge branch 'master' into Cassie
+
+commit 1ca41a0945d317b571933c6ebe9efa50d1318169
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Mon Apr 24 22:27:12 2023 -0400
+
+    fixed valgrind issues
+
+commit e4e6cd00b28a68963d48b2dceb137845ec66b4f4
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Mon Apr 24 22:25:57 2023 -0400
+
+    fixing invalid row and col for setting the color of the pixel error
+
+commit da4fe278c054690c600a6a770c1cc877f1160cdc
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Mon Apr 24 21:41:45 2023 -0400
+
+    fixing valgrind error
+
+commit 11513f482f5c926ee18a78a5b85507f92f0ec6db
+Merge: a640584 c902bb3
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Mon Apr 24 21:08:12 2023 -0400
+
+    Merge pull request #11 from jhu-ip/vincent
+    
+    changed fields in Fill class to function names
+
+commit c902bb33b4b0d9f041ede18af76be7e3e60b63c9
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Mon Apr 24 21:07:49 2023 -0400
+
+    changed fields in Fill class to function names
+
+commit a6405843473190622fd6bbd9c4096b26852bc037
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Mon Apr 24 21:04:47 2023 -0400
+
+    changed the add and set_color functions to using function name instead
+
+commit 254fee75f2153914ee8dfefbc24217cb9e445b17
+Merge: fa97fc1 f1917d4
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Mon Apr 24 20:55:35 2023 -0400
+
+    Merge pull request #10 from jhu-ip/Cassie
+    
+    fixed stringstream scanning error in reader
+
+commit f1917d4f5577fabb88cfc12ee7a8bd9e8f326f40
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Mon Apr 24 20:54:35 2023 -0400
+
+    fixed stringstream scanning error in reader
+
+commit fa97fc12c8f20706e3b2594d64246f92f1623121
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Mon Apr 24 20:52:23 2023 -0400
+
+    fixed variable unused in expr.cpp
+
+commit 77b0f2922e642ac7857d5c437ef48e2010ad019e
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Mon Apr 24 20:03:41 2023 -0400
+
+    debugging...
+
+commit 77cb9ba9f3106ceb0fc60d82f0657ab0ae94acb2
+Merge: d810100 0582167
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Mon Apr 24 16:36:55 2023 -0400
+
+    Merge pull request #9 from jhu-ip/vincent
+    
+    Vincent
+
+commit 05821672520947b3af6d8ff186784da77f6bdea3
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Mon Apr 24 16:15:57 2023 -0400
+
+    finished render_fill in Renderer Class, to be debugged
+
+commit b7e6f781e57434a025047542d2df52714a2476a1
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Mon Apr 24 14:46:20 2023 -0400
+
+    made sure the type of rgb are uint8_t, working on Fill class
+
+commit d8101004989c0765a63ac9d12c2836192bd9f2f5
+Merge: b532d82 cec127c
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Sun Apr 23 23:51:22 2023 -0400
+
+    Merge pull request #8 from jhu-ip/vincent
+    
+    updated Fill class
+
+commit cec127c768b880b896ddf759f8af9c38a6a16790
+Merge: ce578c5 b532d82
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Sun Apr 23 23:51:12 2023 -0400
+
+    Merge branch 'master' into vincent
+
+commit ce578c5c65fa636cc0ed51c8f0b852ad899f014e
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Sun Apr 23 23:47:31 2023 -0400
+
+    updated Fill class
+
+commit b532d8216c77f7a011f050decf6081420a053304
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Sun Apr 23 23:33:56 2023 -0400
+
+    Fixed minor syntax errors
+
+commit 97b015ca83c66f7d7df7cf52554c81ab977a6118
+Merge: d96a4a7 f37a94d
+Author: Cassie Zhang <85932225+xiyanzhang@users.noreply.github.com>
+Date:   Sun Apr 23 23:25:34 2023 -0400
+
+    Merge pull request #7 from jhu-ip/Ryan
+    
+    Ryan
+
+commit d96a4a7f73c7a77dad1272907eb9fca45d875505
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Sun Apr 23 23:24:49 2023 -0400
+
+    finished rendering functions for now
+
+commit f37a94df1814c2e0bfc5627ff5fa4eb8749357cc
+Author: Jinhong Lin <linjinhong@yandex.com>
+Date:   Sun Apr 23 21:03:01 2023 -0400
+
+    expr finished
+
+commit 129481a4a1511ab1c697bfbf273b6cd12ef61801
+Author: Jinhong Lin <linjinhong@yandex.com>
+Date:   Sun Apr 23 04:33:24 2023 -0400
+
+    expr_parser finished
+
+commit a0051bec93426743f85830b3b30784e46412a7fe
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Sun Apr 23 00:28:24 2023 -0400
+
+    added functions to bounds, fill, func and plot. Modified reader so that it calls the right functions
+
+commit 1d7abc3f2086df3cb30eca1c9ba24c021d7604e0
+Merge: 964a153 1a49bf7
+Author: Cassie Zhang <85932225+xiyanzhang@users.noreply.github.com>
+Date:   Sat Apr 22 17:45:00 2023 -0400
+
+    Merge pull request #6 from jhu-ip/Cassie
+    
+    added functions to image
+
+commit 1a49bf74b510787e32ed005a11b78b6dd9b79b23
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Sat Apr 22 17:36:11 2023 -0400
+
+    added functions to image
+
+commit 964a153f20eb83c20327ff78ebdb19471c979eb0
+Merge: 0386593 8651cc1
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Sat Apr 22 17:32:06 2023 -0400
+
+    Merge pull request #5 from jhu-ip/vincent
+    
+    Vincent
+
+commit 8651cc1f821eb246b66bc155c3186964d697cf8b
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Sat Apr 22 02:27:38 2023 -0400
+
+    added destructor
+
+commit 6d84854adcaf7135df13463e050a6cbf371c5d74
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Sat Apr 22 00:55:34 2023 -0400
+
+    finished fill.h, wait for Image to be done first
+
+commit 03865932277966362763866fdfed5ab77c41eace
+Merge: 1a67190 b9a16fc
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Fri Apr 21 21:44:52 2023 -0400
+
+    Merge pull request #4 from jhu-ip/vincent
+    
+    wrote set_color
+
+commit 1a671903c62b326b1f80d7ca6399731d491fe77e
+Merge: a8a70f3 a0b7893
+Author: Cassie Zhang <85932225+xiyanzhang@users.noreply.github.com>
+Date:   Fri Apr 21 21:44:04 2023 -0400
+
+    Merge pull request #3 from jhu-ip/Cassie
+    
+    implemented reader, added exception handling for reader and main
+
+commit a0b7893c7cff7a172e99fe7034f1908833c2f6b8
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Fri Apr 21 21:42:59 2023 -0400
+
+    implemented reader, added exception handling for reader and main
+
+commit b9a16fc3d62cbe6c9f2459163352844bf5fb4c05
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Fri Apr 21 21:41:04 2023 -0400
+
+    wrote set_color
+
+commit a8a70f37e315209424a5b7e1507ec7261e20417d
+Merge: 84a0940 1caa472
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Tue Apr 18 22:13:46 2023 -0400
+
+    Merge pull request #2 from jhu-ip/Cassie
+    
+    added code to help read into Plot in read_input
+
+commit 1caa472b0d0c9420c939c49319afe47314df2040
+Author: Cassie Zhang <xiyanzhang9@gmail.com>
+Date:   Tue Apr 18 22:12:48 2023 -0400
+
+    added code to help read into Plot in read_input
+
+commit 84a094062d8f76b9f5526ae4a6a00d684c37d5cf
+Merge: 2eec2f5 b19368b
+Author: Vincent Lu <113812932+v1ncentlu@users.noreply.github.com>
+Date:   Tue Apr 18 22:03:18 2023 -0400
+
+    Merge pull request #1 from jhu-ip/vincent
+    
+    added fields and a member function (set) to Plot class
+
+commit b19368b4b58effddf5b2f0b886b2ccc950c89f55
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Tue Apr 18 21:56:20 2023 -0400
+
+    added fields and a member function (set) to Plot class
+
+commit 2eec2f569f5ca58c364e2fad753fbfb62ddcc502
+Author: Vincent Lu <slu57@ugradx.cs.jhu.edu>
+Date:   Mon Apr 17 13:44:04 2023 -0400
+
+    starter files copied

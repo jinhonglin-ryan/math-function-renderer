@@ -1,0 +1,17 @@
+
+DESIGN:
+1. Implemented the Reader, Expr and ExprParser classes, which are the foundation stones of this project. 
+    used 'vector' to represent the expression as a tree. 
+2. Implemented the Bounds class that holds the values of the bounds of the functions, 
+    and the Color class that holds the value of RGB of a pixel.
+3. Implemented the Image class that holds the values of the image's height and width, 
+    and an array of Color objects which has RGBs of all pixels in this image.
+4. Implemented the Function class that holds the name of the function, its expression, and its associated RGB value.
+5. Implemented the Fill class that holds two function names (the second one for FillBetween directive), 
+    the opacity and the color that is associated with the Fill directive, and an integer value indicating the type of 
+    the Fill (1 = FillAbove, 2 = FillBelow, 3 = FillBetween).
+6. Implemented the Plot class that holds fields that represent plot bounds, image, functions and fills. 
+    Basically, the Plot directive includes the information of all other directives.
+7. Implemented the Render class that holds the plot and the image. The 'render' function in Render renders the Fill 
+    and the Functions.
+8. Implemented main.cpp so that it catches all the errors thrown in other classes.
